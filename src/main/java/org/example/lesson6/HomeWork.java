@@ -20,8 +20,7 @@ public class HomeWork {
 
     // Сумма 4-х
     int sum(int a, int b, int c, int d){
-        int result3 = a + b + c + d;
-        return result3;
+        return a + b + c + d;
     }
 
     // Сумма 1-го
@@ -56,6 +55,8 @@ class Proverka{
 
         int summary4 = homeWork.sum();
         System.out.println(summary4);
+
+        System.out.println(homeWork.sum(6));
 
 
     }
