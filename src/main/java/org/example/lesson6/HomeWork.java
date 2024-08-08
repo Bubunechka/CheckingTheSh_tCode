@@ -31,6 +31,7 @@ public class HomeWork {
 
     int sum (){
         int result5 = 0;
+        System.out.println("Summary all number: " + result5);
         return result5;
     }
 
@@ -56,7 +57,7 @@ class Proverka{
         int summary4 = homeWork.sum();
         System.out.println(summary4);
 
-        System.out.println(homeWork.sum(6));
+        //System.out.println(homeWork.sum(6));
 
 
     }
