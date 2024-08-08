@@ -33,7 +33,7 @@ public class Employee {
         // по их значениям (double - 0.0, String - null etc.)
     }
 
-    Employee(String surname, int age){
+    public Employee(String surname, int age){
         this(0, surname, age, 0.0, null);
 
     }
