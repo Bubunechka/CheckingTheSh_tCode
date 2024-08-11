@@ -10,7 +10,7 @@ public class Student {
     double averageScoreInEconomic;
     double averageScoreInForeignLanguage;
 
-    Student(int numberOfStudentTicket, String name, String surName, int yearOfEducation, double averageScoreInMath,
+    public Student(int numberOfStudentTicket, String name, String surName, int yearOfEducation, double averageScoreInMath,
             double averageScoreInEconomic, double averageScoreInForeignLanguage){
 
         this.numberOfStudentTicket = numberOfStudentTicket;
@@ -32,7 +32,7 @@ public class Student {
 
     }
 
-    Student(){
+    public Student(){
 
     }
 
