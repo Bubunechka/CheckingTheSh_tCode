@@ -1,4 +1,4 @@
-package org.example.p1;
+package org.example.lesson10HwomeWork.p1;
 
 public class A {
 

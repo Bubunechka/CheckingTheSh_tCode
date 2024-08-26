@@ -1,11 +1,9 @@
-package org.example.p1.p2.p3.p4;
+package org.example.lesson10HwomeWork.p1.p2.p3.p4;
 
-import org.example.p1.A;
-import org.example.p1.p2.B;
-import org.example.p1.p2.p3.C;
-import org.example.p1.p2.p3.p4.p5.E;
-
-import javax.sound.midi.Soundbank;
+import org.example.lesson10HwomeWork.p1.A;
+import org.example.lesson10HwomeWork.p1.p2.B;
+import org.example.lesson10HwomeWork.p1.p2.p3.C;
+import org.example.lesson10HwomeWork.p1.p2.p3.p4.p5.E;
 
 public class D {
 

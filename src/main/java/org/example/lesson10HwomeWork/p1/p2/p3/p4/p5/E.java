@@ -1,4 +1,4 @@
-package org.example.p1.p2.p3.p4.p5;
+package org.example.lesson10HwomeWork.p1.p2.p3.p4.p5;
 
 public class E {
     String poroda = "Карликовый минор";
